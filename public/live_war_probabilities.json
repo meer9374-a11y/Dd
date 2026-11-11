@@ -1,0 +1,24 @@
+{
+  "timestamp_utc": "2026-11-11T10:00:00Z",
+  "global_stress_index": 44.2,
+  "global_baseline": {
+    "supply_chain_macro": {
+      "dram_spot_trend": "BULLISH_SPIKE",
+      "shipping_stress_z": 2.1
+    }
+  },
+  "osint_recent_crisis_news": [
+    { "title": "Naval exercises intensified in the Western Pacific region", "published": "2026-11-11T09:00:00Z" }
+  ],
+  "assessments": [
+    {
+      "pair_id": "1_US_CHINA_TAIWAN",
+      "pair_name": "미국-중국 (대만 해협)",
+      "war_probability_30d": 29.5,
+      "alert_level": "HIGH",
+      "decoupling_detected": true,
+      "primary_financial_trigger": "SOXX 반도체 지수 대비 TSM 역외 환율 급락 및 자본 이탈 포착 (Z-Score +2.4)",
+      "early_warning_lead_time": "정부 발표 대비 48시간 선행"
+    }
+  ]
+}
